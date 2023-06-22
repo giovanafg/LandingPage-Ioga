@@ -1,0 +1,72 @@
+.landing-page{
+    display: flex;
+    flex-direction: column;
+    background-color: #47C698;
+    align-items: center;
+    padding: 80px;
+}
+
+.titulo{
+    color: #0D3F21;
+    font-size: 40px;
+    font-family: Roboto;
+    font-weight: 700;
+    width: 563px;
+}
+
+.subtitulo{
+    color: #FFF;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: 300;
+    width: 530px;
+}
+
+.frase{
+    color: #0D3F21;
+    font-size: 25px;
+    font-family: Roboto;
+}
+
+
+.icon-ioga{
+    width: 157px;
+    height: 118px;
+}
+
+.landing-page-conteudo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10rem;
+}
+
+.formulario{
+    text-align: center;
+   
+}
+
+.titulo-form{
+    color: #FFF;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: 300
+}
+
+.subtitulo-form{
+    color: #0D3F21;
+    font-size: 18px;
+    font-family: Roboto;
+    font-style: italic;
+}
+
+.formulario-inscricao{
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
